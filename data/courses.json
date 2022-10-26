@@ -2,6 +2,7 @@
   {
     "id": 1,
     "courseName": "Think in a javascript way.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps.This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.",
     "category": "JavaScript",
     "author": {
       "name": "Sumit Saha",
@@ -15,6 +16,7 @@
   {
     "id": 2,
     "courseName": "JavaScript for absolute beginners.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps.This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.",
     "category": "JavaScript",
     "author": {
       "name": "Sumit Saha",
@@ -28,6 +30,7 @@
   {
     "id": 3,
     "courseName": "ES6: Moder JavaScript.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps. This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.In Javascript ES6 we have these new features: arrow functions, let/const blocks, classes with constructors (including some syntactic sugar), default parameters, destructuring assignment and spread operator.",
     "category": "JavaScript",
     "author": {
       "name": "Sumit Saha",
@@ -41,6 +44,7 @@
   {
     "id": 4,
     "courseName": "JavaScript All you need to know.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps.This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.",
     "category": "JavaScript",
     "author": {
       "name": "Hm Nayem",
@@ -54,6 +58,7 @@
   {
     "id": 5,
     "courseName": "JavaScript Crash course.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps.This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.",
     "category": "JavaScript",
     "author": {
       "name": "Hm Nayem",
@@ -67,6 +72,7 @@
   {
     "id": 6,
     "courseName": "ES6 Bangla tutorial.",
+    "description": "Javascript is a lightweight, interpreted, object-oriented language. It is the most popular programming language today. It is used in web browsers and on web servers to create interactive websites, web applications, and even mobile apps. This tutorial will give you a brief introduction to ES6 and how it can be used in Javascript.In Javascript ES6 we have these new features: arrow functions, let/const blocks, classes with constructors (including some syntactic sugar), default parameters, destructuring assignment and spread operator.",
     "category": "JavaScript",
     "author": {
       "name": "Hm Nayem",
@@ -80,6 +86,7 @@
   {
     "id": 7,
     "courseName": "Object oriented programming.",
+    "description": "Object oriented programming is a type of programming where a program is organized as a collection of objects. The most common languages that use object oriented programming are Java, C++, Python, PHP and JavaScript. These languages have the ability to create classes which are groups of functions and variables that work together to define what an object does.Objects in object oriented programming are created with classes which can contain data members and member functions or methods. Classes can be used to create new objects by instantiating them with specific values for their data members and then invoking their methods.",
     "category": "JavaScript",
     "author": {
       "name": "Hm Nayem",
@@ -93,6 +100,7 @@
   {
     "id": 8,
     "courseName": "Dive into NodeJS.",
+    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Hm Nayem",
@@ -106,6 +114,7 @@
   {
     "id": 9,
     "courseName": "NodeJS Bangla tutorial.",
+    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Sumit Saha",
@@ -119,6 +128,7 @@
   {
     "id": 10,
     "courseName": "NodeJS Bangla tutorial.",
+    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Anisul Islam",
@@ -132,6 +142,7 @@
   {
     "id": 11,
     "courseName": "NodeJS Bangla tutorial.",
+    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Vinod Thapa",
