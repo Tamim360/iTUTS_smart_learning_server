@@ -100,7 +100,7 @@
   {
     "id": 8,
     "courseName": "Dive into NodeJS.",
-    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Hm Nayem",
@@ -114,7 +114,7 @@
   {
     "id": 9,
     "courseName": "NodeJS Bangla tutorial.",
-    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Sumit Saha",
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "courseName": "NodeJS Bangla tutorial.",
-    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Anisul Islam",
@@ -142,7 +142,7 @@
   {
     "id": 11,
     "courseName": "NodeJS Bangla tutorial.",
-    "description": "JNodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
     "category": "NodeJS",
     "author": {
       "name": "Vinod Thapa",
@@ -151,6 +151,202 @@
     "video": {
         "quantity" : 86,
         "thumbnail" : "https://i.ytimg.com/vi/IIpiLZGTWuo/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA210DGCC2x07Ybl39ze4_crWrYLg"
+    }
+  },
+  {
+    "id": 12,
+    "courseName": "NodeJS Bangla tutorial.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "category": "NodeJS",
+    "author": {
+      "name": "Rabbil Hasan",
+      "profile_pic": "https://tse3.mm.bing.net/th?id=OIP.cUJEoM5L0mXkpxtns9BXUgHaHa"
+    },
+    "video": {
+        "quantity" : 132,
+        "thumbnail" : "https://i.ytimg.com/vi/nlq9niwtDS0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgdft4A4un6evlxZDojSMnHD0MDA"
+    }
+  },
+  {
+    "id": 13,
+    "courseName": "NodeJS Bangla tutorial.",
+    "description": "NodeJS is a JavaScript-based platform for developing server-side and networking applications. It allows you to use JavaScript to write both the front end and the back end of an application. NodeJS is a popular JavaScript framework that is used for building scalable, high-performance web applications. It is an open-source, cross-platform runtime environment that executes JavaScript code outside the browser. In this tutorial series, we will cover the basics of NodeJS, including installation, basic syntax, and module installation. We will also discuss how to create a simple web server with NodeJS.",
+    "category": "NodeJS",
+    "author": {
+      "name": "Haris Ali khan",
+      "profile_pic": "https://tse2.mm.bing.net/th?id=OIP.-zJDHZsUf8DzJfnDZvZs0gAAAA"
+    },
+    "video": {
+        "quantity" : 27,
+        "thumbnail" : "https://i.ytimg.com/vi/YFmgNiimfyk/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAHfQjUWP_6gEFVBLL_AuM20Vej1g"
+    }
+  },
+  {
+    "id": 14,
+    "courseName": "ReactJS Bangla tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Sumit Saha",
+      "profile_pic": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
+    },
+    "video": {
+        "quantity" : 47,
+        "thumbnail" : "https://i.ytimg.com/vi/5Xy-t8k_M4A/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCSN99wXN05_33Cj--zW7eCHU-r3Q"
+    }
+  },
+  {
+    "id": 15,
+    "courseName": "ReactJS Bangla tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Anisul Islam",
+      "profile_pic": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    "video": {
+        "quantity" : 95,
+        "thumbnail" : "https://i.ytimg.com/vi/9IdczKQNg3o/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD6Zdadketrn3noPK6zjVanlevCeg"
+    }
+  },
+  {
+    "id": 16,
+    "courseName": "ReactJS Bangla tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Hm Nayem",
+      "profile_pic": "https://media-exp1.licdn.com/dms/image/C5603AQECb8HFBDNXRw/profile-displayphoto-shrink_800_800/0/1641607695089?e=2147483647&v=beta&t=VBB1IgYo8_WaR3bv6yudjZgBoav2AIyo8NB-bf-Teq8"
+    },
+    "video": {
+        "quantity" : 95,
+        "thumbnail" : "https://i.ytimg.com/vi/sCKGvYTSdKM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBYBJKHgnoLWGpLrKkkroQwpcU4-A"
+    }
+  },
+  {
+    "id": 17,
+    "courseName": "ReactJS Hindi tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Vinod Thapa",
+      "profile_pic": "https://tse2.mm.bing.net/th?id=OIP.HMa67I_CWhvv3V6ggzaDYwHaHa"
+    },
+    "video": {
+        "quantity" : 90,
+        "thumbnail" : "https://i.ytimg.com/vi/tiLWCNFzThE/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA5TXO4v9OLbk14ZV1Ev7f41EM9rw"
+    }
+  },
+  {
+    "id": 18,
+    "courseName": "ReactJS Hindi tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Haris Ali khan",
+      "profile_pic": "https://tse2.mm.bing.net/th?id=OIP.-zJDHZsUf8DzJfnDZvZs0gAAAA"
+    },
+    "video": {
+        "quantity" : 78,
+        "thumbnail" : "https://i.ytimg.com/vi/-mJFZp84TIY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHBmNMkrlki0bJx7dkyaYw7lu7sQ"
+    }
+  },
+  {
+    "id": 19,
+    "courseName": "ReactJS Bangla tutorial.",
+    "description": "ReactJS is a JavaScript library that is used to create interactive user interfaces. It's used in many popular web and mobile applications like Facebook, Instagram, AirBnB, and Netflix. ReactJS tutorial series will teach you how to use ReactJS as well as all the features it has to offer.",
+    "category": "ReactJS",
+    "author": {
+      "name": "Rabbil Hasan",
+      "profile_pic": "https://tse3.mm.bing.net/th?id=OIP.cUJEoM5L0mXkpxtns9BXUgHaHa"
+    },
+    "video": {
+        "quantity" : 130,
+        "thumbnail" : "https://i.ytimg.com/vi/GACFI1AxtL0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoJJxmhIfi0qp4ofd1rFZhH7Dp7Q"
+    }
+  },
+  {
+    "id": 20,
+    "courseName": "TypeScript Bangla tutorial.",
+    "description": "TypeScript is a superset of JavaScript that compiles to plain JavaScript. It was designed to be a language that is easy to learn for those who have experience with object-oriented programming concepts. In this tutorial series, we will cover the basics of TypeScript and how it can be used in conjunction with some popular frameworks like Angular and React.",
+    "category": "TypeScript",
+    "author": {
+      "name": "Sumit Saha",
+      "profile_pic": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
+    },
+    "video": {
+        "quantity" : 49,
+        "thumbnail" : "https://i.ytimg.com/vi/CHnTTzD1pAQ/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDN6dapEP1wyiWyNSIAQZjDKOeSdw"
+    }
+  },
+  {
+    "id": 21,
+    "courseName": "TypeScript Hindi tutorial.",
+    "description": "TypeScript is a superset of JavaScript that compiles to plain JavaScript. It was designed to be a language that is easy to learn for those who have experience with object-oriented programming concepts. In this tutorial series, we will cover the basics of TypeScript and how it can be used in conjunction with some popular frameworks like Angular and React.",
+    "category": "TypeScript",
+    "author": {
+      "name": "Vinod Thapa",
+      "profile_pic": "https://tse2.mm.bing.net/th?id=OIP.HMa67I_CWhvv3V6ggzaDYwHaHa"
+    },
+    "video": {
+        "quantity" : 11,
+        "thumbnail" : "https://i.ytimg.com/vi/u7SpFQy542U/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDOZUu71pfs18MxZEOKhSaqxQaoFQ"
+    }
+  },
+  {
+    "id": 22,
+    "courseName": "TypeScript English tutorial.",
+    "description": "TypeScript is a superset of JavaScript that compiles to plain JavaScript. It was designed to be a language that is easy to learn for those who have experience with object-oriented programming concepts. In this tutorial series, we will cover the basics of TypeScript and how it can be used in conjunction with some popular frameworks like Angular and React.",
+    "category": "TypeScript",
+    "author": {
+      "name": "Hitesh Chowdhury",
+      "profile_pic": "https://tse4.mm.bing.net/th?id=OIP.rKAdI6dNQGgJOcrbGbIq5QHaHa"
+    },
+    "video": {
+        "quantity" : 26,
+        "thumbnail" : "https://i.ytimg.com/vi/j89BvWz8Eag/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCstSxOyPVZiJOU0Eh_QCBheVd7fg"
+    }
+  },
+  {
+    "id": 23,
+    "courseName": "TypeScript Bangla tutorial.",
+    "description": "TypeScript is a superset of JavaScript that compiles to plain JavaScript. It was designed to be a language that is easy to learn for those who have experience with object-oriented programming concepts. In this tutorial series, we will cover the basics of TypeScript and how it can be used in conjunction with some popular frameworks like Angular and React.",
+    "category": "TypeScript",
+    "author": {
+      "name": "Anisul Islam",
+      "profile_pic": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    "video": {
+        "quantity" : 21,
+        "thumbnail" : "https://i.ytimg.com/vi/OSw_sJ-lfU8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpeOtg4fRa7mr92ZpYrbXtlLYS1A"
+    }
+  },
+  {
+    "id": 24,
+    "courseName": "Redux Bangla tutorial.",
+    "description": "Redux is a JavaScript library that helps to manage the state of an application. This tutorial series will help you understand how redux works and how to use it in your own project. In this tutorial, we will cover the basics of redux, including its history, core principles, and implementation in a simple example app.",
+    "category": "Redux",
+    "author": {
+      "name": "Anisul Islam",
+      "profile_pic": "https://yt3.ggpht.com/ytc/AMLnZu9qwWLjx8qLFObE0TDxQytCm3kAy02qy3cnv-tWew=s176-c-k-c0x00ffffff-no-rj-mo"
+    },
+    "video": {
+        "quantity" : 14,
+        "thumbnail" : "https://i.ytimg.com/vi/vaXwgADfJL8/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAVKdlFaz65XJXzUWaNoJ42Cf930w"
+    }
+  },
+  {
+    "id": 25,
+    "courseName": "Redux English tutorial.",
+    "description": "Redux is a JavaScript library that helps to manage the state of an application. This tutorial series will help you understand how redux works and how to use it in your own project. In this tutorial, we will cover the basics of redux, including its history, core principles, and implementation in a simple example app.",
+    "category": "Redux",
+    "author": {
+      "name": "Hitesh Chowdhury",
+      "profile_pic": "https://tse4.mm.bing.net/th?id=OIP.rKAdI6dNQGgJOcrbGbIq5QHaHa"
+    },
+    "video": {
+        "quantity" : 1,
+        "thumbnail" : "https://i.ytimg.com/vi/np8A_aW7Pew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXvUEPdmEPfZ4jcyJZ4u3R794ZjA"
     }
   }
 ]
